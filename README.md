@@ -1,16 +1,21 @@
-## Hi there 👋
+- 👋 Hi coder, I’m @Muhammadyusuf5791 👋  
+- 😉 My name is Muhammadyusuf 😉  
+- 👨‍💻 I have expertise in HTML, CSS, and JavaScript.  
+- 💼 I am proficient in Microsoft Excel, Word, and PowerPoint.  
+- 🌍 From: Namangan, Uzbekistan.  
+- 🌐 Portfolio: [portflioooo.vercel.app](https://portflioooo.vercel.app)  
+- 📷 Instagram: [t__abdulaz1z](https://www.instagram.com/abdukarimov___571)  
+- 💬 Telegram: [t_abdulaz1z](https://t.me/Joseph_0011)
 
-<!--
-**Muhammadyusuf5791/Muhammadyusuf5791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats:
 
-Here are some ideas to get you started:
+| 💻 GitHub Stats | 🌐 Top Languages |
+|--------------------|-----------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammadyusuf5791&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyusuf5791&layout=compact&theme=dark) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technologies and Tools:
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+
+![Codewars](https://www.codewars.com/users/Muhammadyusuf5791/badges/large)
