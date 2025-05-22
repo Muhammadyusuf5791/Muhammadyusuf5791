@@ -3,9 +3,9 @@
 - 👨‍💻 I have expertise in HTML, CSS, and JavaScript.  
 - 💼 I am proficient in Microsoft Excel, Word, and PowerPoint.  
 - 🌍 From: Namangan, Uzbekistan.  
-- 🌐 Portfolio: [portflioooo.vercel.app](https://portflioooo.vercel.app)  
-- 📷 Instagram: [t__abdulaz1z](https://www.instagram.com/abdukarimov___571)  
-- 💬 Telegram: [t_abdulaz1z](https://t.me/Joseph_0011)
+- 🌐 Portfolio: [portflio.vercel.app](https://portfolio-vert-iota-61.vercel.app/)
+- 📷 Instagram: [abdukarimov___571](https://www.instagram.com/abdukarimov___571)  
+- 💬 Telegram: [Joseph_0011](https://t.me/Joseph_0011)
 
 ### 📊 GitHub Stats:
 
