@@ -3,7 +3,7 @@
 - 👨‍💻 I have expertise in HTML, CSS, and JavaScript.  
 - 💼 I am proficient in Microsoft Excel, Word, and PowerPoint.  
 - 🌍 From: Namangan, Uzbekistan.  
-- 🌐 Portfolio: [My Portfolio](abdukarimovv.uz/)
+- 🌐 Portfolio: [My Portfolio]([abdukarimovv.uz/](https://www.abdukarimovv.uz/))
 - 📷 Instagram: [abdukarimov___571](https://www.instagram.com/abdukarimov___571)  
 - 💬 Telegram: [Joseph_0011](https://t.me/Joseph_0011)
 
