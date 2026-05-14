@@ -4,7 +4,7 @@
 - 💼 I am proficient in Microsoft Excel, Word, and PowerPoint.  
 - 🌍 From: Namangan, Uzbekistan.  
 - 🌐 Portfolio: [My Portfolio](https://www.abdukarimovv.uz/)
-- 📷 Instagram: [abdukarimov___571](https://www.instagram.com/abdukarimov___571)  
+- 📷 Instagram: [abdukarimov___571](https://www.instagram.com/abdukarimov.5oo)  
 - 💬 Telegram: [Joseph_0011](https://t.me/Joseph_0011)
 
 ### 📊 GitHub Stats:
