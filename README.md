@@ -1,11 +1,11 @@
 - 👋 Hi coder, I’m @Muhammadyusuf5791 👋  
 - 😉 My name is Muhammadyusuf 😉  
-- 👨‍💻 I have expertise in HTML, CSS, and JavaScript.  
+- 👨‍💻 I have expertise in HTML, CSS, JavaScript, React, Node.js and React Native.  
 - 💼 I am proficient in Microsoft Excel, Word, and PowerPoint.  
 - 🌍 From: Namangan, Uzbekistan.  
 - 🌐 Portfolio: [My Portfolio](https://www.abdukarimovv.uz/)
-- 📷 Instagram: [abdukarimov___571](https://www.instagram.com/abdukarimov.5oo)  
-- 💬 Telegram: [Joseph_0011](https://t.me/Joseph_0011)
+- 📷 Instagram: [abdukarimov.5oo](https://www.instagram.com/abdukarimov.5oo)  
+- 💬 Telegram: [abdukarimov500](https://t.me/abdukarimov500)
 
 ### 📊 GitHub Stats:
 
